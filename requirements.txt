@@ -9,7 +9,8 @@ python-dotenv
 opencv-python
 torchvision
 shapely
-jupyter 
+jupyter
+kaggle
 
 wandb
 rasterio
